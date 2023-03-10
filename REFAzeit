@@ -19,10 +19,10 @@ echo "Zeit läuft. Drücke Enter für den ersten Messpunkt"
 start_time=$(date "+%s")
 
 while read mp1; do
-	echo -n "Ablaufabschnitt-Nr. "; read aa ; echo -n "Leistungsgrad in % "; read lg
 	run_time=$(date +%s)
         delta_time=$((run_time - start_time))
-    	echo -n $delta_time " Sekunden im Ablaufabschnitt: "$aa "LG = " $lg "%"
+        echo -n "Ablaufabschnitt-Nr. "; read aa ; echo -n "Leistungsgrad in % "; read lg
+    	echo -n FZ: $delta_time " in Sek im Ablaufabschnitt: "$aa "LG = " $lg "%"
     	echo 
     	echo $delta_time $aa $lg >> ~/Studie_`echo -n $za`.txt
 	echo "Enter für Messpunkt"
