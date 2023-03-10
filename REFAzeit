@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
-# REFAzeit V0.1
+# REFAzeit V0.2
 # Es ist zum Abstoppen von Ablaufabschnitten gedacht
 # Die Zeit wird in Sekunden und nicht, wie üblich, in HM ausgegeben
 # das soll in weiteren updates geschehen
@@ -14,6 +14,7 @@
 clear
 echo -n "Name der Zeitstudie: " && read za
 echo -n Taste Drücken zum Starten && read x
+echo "Zeit läuft. Drücke Enter für den ersten Messpunkt"
 
 start_time=$(date "+%s")
 
@@ -24,4 +25,5 @@ while read mp1; do
     	echo -n $delta_time " Sekunden im Ablaufabschnitt: "$aa "LG = " $lg "%"
     	echo 
     	echo $delta_time $aa $lg >> ~/Studie_`echo -n $za`.txt
+	echo "Enter für Messpunkt"
 done
