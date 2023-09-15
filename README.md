@@ -3,7 +3,7 @@ Ein Hallo an alle Programmierer dieser Welt. Um REFAzeitstudien durchführen zu
 können ist eine teure Hardware und noch teuere Software von nöten.
 
 Mit diesem Projekt möchte ich eine Open Source Variante allen zur Verfügenung 
-stellen, damit auch Firmen mit kleim Budget die Möglichkeit haben präzise Vor
+stellen, damit auch Firmen mit kleiem Budget die Möglichkeit haben präzise Vor
 gabezeiten (te) / Verteilzeitsutien (tv) / Rüstzeiten (tr) / Störzeiten...
 zu ermitteln. 
 
