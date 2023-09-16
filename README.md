@@ -1,10 +1,10 @@
-# REFAzeit V0.1
+# REFAzeit V0.3
 Ein Hallo an alle Programmierer dieser Welt. Um REFAzeitstudien durchführen zu
 können ist eine teure Hardware und noch teuere Software von nöten.
 
 Mit diesem Projekt möchte ich eine Open Source Variante allen zur Verfügenung 
-stellen, damit auch Firmen mit kleinem Budget die Möglichkeit haben präzise Vor
-gabezeiten (te) / Verteilzeitsutien (tv) / Rüstzeiten (tr) / Störzeiten...
+stellen, damit auch Firmen mit kleinem Budget die Möglichkeit haben, 
+präzise Vorgabezeiten (te) / Verteilzeitsutien (tv) / Rüstzeiten (tr) / Störzeiten...
 zu ermitteln. 
 
 Da ich nur ein absoluter Laie bin, fehlen mir die benötigten skills. Dennoch
