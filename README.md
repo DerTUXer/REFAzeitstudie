@@ -13,7 +13,7 @@ ich ansatzweise ein kleines bisschen verstehe.
 Für fortgeschnittene Programmiere solltes es daher kein Problem sein soetws zu
 programmieren.
 
-Ziel der Software
+Ziel der Software:
 - Start der Stoppuhr bei 0 HM (Hundertstel Minute)
 - Messpunkte nach Fortschrittzeit (in HM)
 - Jeder Meßpunkt beinhaltet folgendes
