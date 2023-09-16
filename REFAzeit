@@ -23,7 +23,7 @@ while read mp1; do
         delta_time=$((run_time - start_time))
         echo -n "Ablaufabschnitt-Nr. "; read aa ; echo -n "Leistungsgrad in % "; read lg ; echo -n "BZM "; read bm
         
-        echo -n FZ: $delta_time " in Sek im Ablaufabschnitt: "$aa "LG = " $lg "%   BZM:" $bm
+        echo -n FZ: $delta_time " in HM im Ablaufabschnitt: "$aa "LG = " $lg "%   BZM:" $bm
     	echo 
     	echo
     	echo $delta_time $aa $lg $bm>> ~/Studie_`echo -n $za`.txt
