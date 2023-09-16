@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
-# REFAzeit V0.2
+# REFAzeit V0.3 16.09.2023
 # Es ist zum Abstoppen von Ablaufabschnitten gedacht
 # Die Zeit wird in Sekunden und nicht, wie üblich, in HM ausgegeben
 # das soll in weiteren updates geschehen
@@ -21,9 +21,11 @@ start_time=$(date "+%s")
 while read mp1; do
 	run_time=$(date +%s)
         delta_time=$((run_time - start_time))
-        echo -n "Ablaufabschnitt-Nr. "; read aa ; echo -n "Leistungsgrad in % "; read lg
-    	echo -n FZ: $delta_time " in Sek im Ablaufabschnitt: "$aa "LG = " $lg "%"
+        echo -n "Ablaufabschnitt-Nr. "; read aa ; echo -n "Leistungsgrad in % "; read lg ; echo -n "BZM "; read bm
+        
+        echo -n FZ: $delta_time " in Sek im Ablaufabschnitt: "$aa "LG = " $lg "%   BZM:" $bm
     	echo 
-    	echo $delta_time $aa $lg >> ~/Studie_`echo -n $za`.txt
+    	echo
+    	echo $delta_time $aa $lg $bm>> ~/Studie_`echo -n $za`.txt
 	echo "Enter für Messpunkt"
 done
