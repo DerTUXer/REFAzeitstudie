@@ -1,4 +1,4 @@
-# REFAzeit V0.3
+# REFAzeit V0.3b
 Ein Hallo an alle Programmierer dieser Welt. Um REFAzeitstudien durchführen zu
 können ist eine teure Hardware und noch teuere Software von nöten.
 
