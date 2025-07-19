@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
-# REFAzeit V0.3 16.09.2023
+# REFAzeit V0.3b 16.09.2023
 # Es ist zum Abstoppen von Ablaufabschnitten gedacht
 # Die Zeit wird in Sekunden und nicht, wie üblich, in HM ausgegeben
 # das soll in weiteren updates geschehen
