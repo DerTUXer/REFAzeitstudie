@@ -8,7 +8,8 @@ Betriebe mit kleinem Budget präzise
 -   Verteilzeitstudien (vsv)  
 -   Rüstzeiten (trg)  
 -   Störzeiten (N) 
-ermitteln können.  
+ermitteln können.
+
 Da ich selbst noch am Anfang stehe, beginne ich das Projekt   
 mit einem einfachen Bash-Script. Profis werden über die Logik   
 vermutlich schmunzeln, aber für den Anfang reicht es. Ziel ist  
