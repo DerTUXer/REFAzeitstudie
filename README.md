@@ -7,7 +7,7 @@ Betriebe mit kleinem Budget präzise Vorgabezeiten
 (
 ), Verteilzeitstudien (
 ), Rüstzeiten (
-) oder Störzeiten ermitteln können.
+) oder Störzeiten ermitteln können.  
 Da ich selbst noch am Anfang stehe, beginne ich das Projekt   
 mit einem einfachen Bash-Script. Profis werden über die Logik   
 vermutlich schmunzeln, aber für den Anfang reicht es. Ziel ist  
