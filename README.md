@@ -4,9 +4,11 @@ Aktuell erfordern REFA-Zeitstudien oft teure Spezial-Hardware
 und kostspielige Software. Mit diesem Open-Source-Projekt   
 möchte ich eine kostenlose Alternative schaffen, damit auch  
 Betriebe mit kleinem Budget präzise  
--   Vorgabezeiten (te)  
+-   Vorgabezeiten (te)
+-   Hauptzeiten (th)
+-   Nebenzeiten (tn)  
 -   Verteilzeitstudien (vsv)  
--   Rüstzeiten (trg)  
+-   Rüstzeiten (tr)  
 -   Störzeiten (N)
 
 ermitteln können.
