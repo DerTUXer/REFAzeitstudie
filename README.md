@@ -4,10 +4,10 @@ Aktuell erfordern REFA-Zeitstudien oft teure Spezial-Hardware
 und kostspielige Software. Mit diesem Open-Source-Projekt   
 möchte ich eine kostenlose Alternative schaffen, damit auch  
 Betriebe mit kleinem Budget präzise  
-Vorgabezeiten (te)  
-Verteilzeitstudien (vsv)  
-Rüstzeiten (trg)  
-Störzeiten (N) 
+-   Vorgabezeiten (te)  
+-   Verteilzeitstudien (vsv)  
+-   Rüstzeiten (trg)  
+-   Störzeiten (N) 
 ermitteln können.  
 Da ich selbst noch am Anfang stehe, beginne ich das Projekt   
 mit einem einfachen Bash-Script. Profis werden über die Logik   
