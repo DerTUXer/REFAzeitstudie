@@ -30,4 +30,10 @@ Zum setzen des Messpunktes ENTER drücken
 Nun die Ablaufabschnitts-Nr. eingeben  
 Zum Schluss den Leistungsgrad (LG) vergeben (Eingabe von %)  
 
-Zum Beenden einfach strg + c drücken
+Zum Beenden einfach strg + c drücken  
+
+Da ich selbst als REFA-Techniker i.E. tätig bin, weiß ich:  
+In der Praxis werden Zeitarten und detaillierte Ablaufabschnitt-Texte  
+oft erst bei der späteren Auswertung vergeben. Für die reine  
+Zeitaufnahme vor Ort reichen die hier geplanten minimalen Eingaben  
+daher völlig aus, um präzise Daten zu generieren.
