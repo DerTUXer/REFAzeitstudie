@@ -7,7 +7,8 @@ Betriebe mit kleinem Budget präzise
 -   Vorgabezeiten (te)  
 -   Verteilzeitstudien (vsv)  
 -   Rüstzeiten (trg)  
--   Störzeiten (N) 
+-   Störzeiten (N)
+
 ermitteln können.
 
 Da ich selbst noch am Anfang stehe, beginne ich das Projekt   
