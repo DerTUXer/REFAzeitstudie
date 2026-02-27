@@ -32,6 +32,8 @@ Zum Schluss den Leistungsgrad (LG) vergeben (Eingabe von %)
 
 Zum Beenden einfach strg + c drücken  
 
+
+# Bemerkung  
 Da ich selbst als REFA-Techniker i.E. tätig bin, weiß ich:  
 In der Praxis werden Zeitarten und detaillierte Ablaufabschnitt-Texte  
 oft erst bei der späteren Auswertung vergeben. Für die reine  
