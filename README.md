@@ -1,28 +1,19 @@
-# REFAzeit V0.3b
-Ein Hallo an alle Programmierer dieser Welt. Um REFAzeitstudien durchführen zu
-können ist eine teure Hardware und noch teuere Software von nöten.
+# REFAzeit V0.3b #
+Hallo an alle Entwickler! 
+Aktuell erfordern REFA-Zeitstudien oft teure Spezial-Hardware   
+und kostspielige Software. Mit diesem Open-Source-Projekt   
+möchte ich eine kostenlose Alternative schaffen, damit auch  
+Betriebe mit kleinem Budget präzise Vorgabezeiten   
+(
+), Verteilzeitstudien (
+), Rüstzeiten (
+) oder Störzeiten ermitteln können.
+Da ich selbst noch am Anfang stehe, beginne ich das Projekt   
+mit einem einfachen Bash-Script. Profis werden über die Logik   
+vermutlich schmunzeln, aber für den Anfang reicht es. Ziel ist  
+ein Tool, das Messpunkte in Hundertstelminuten (HM) erfasst,  
+inklusive Leistungsgrad, Ablaufabschnitt und automatischer Speicherung.  
 
-Mit diesem Projekt möchte ich eine Open Source Variante allen zur Verfügenung 
-stellen, damit auch Firmen mit kleinem Budget die Möglichkeit haben, 
-präzise Vorgabezeiten (te) / Verteilzeitsutien (tv) / Rüstzeiten (tr) / Störzeiten...
-zu ermitteln. 
-
-Da ich nur ein absoluter Laie bin, fehlen mir die benötigten skills. Dennoch
-möchte ich mit einem Bash-Script anfangen, da es die einzige Sprache ist, die
-ich ansatzweise ein kleines bisschen verstehe.
-Für fortgeschnittene Programmiere solltes es daher kein Problem sein soetws zu
-programmieren.
-
-Ziel der Software:
-- Start der Stoppuhr bei 0 HM (Hundertstel Minute)
-- Messpunkte nach Fortschrittzeit (in HM)
-- Jeder Meßpunkt beinhaltet folgendes
-          . fortlaufende Aufnummerierung
-          . Eine Ablaufabschnitt Nummer
-          . einen Leistungsgrat in %
-          . einen Ablaufabschnitt Text (nicht zwingend notwendig)
-          . vergabe von Bezugsmenge (BZM) (nicht zwingend notwendig)
-          . nach jedem Messpunkt wird das Ergebnis in eine Datei gespeichtert
 
 # Kurze Anleitung der aktuellen Version
 Datei-Name bzw. Studien-Name vergeben
