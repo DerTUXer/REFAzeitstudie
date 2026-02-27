@@ -10,6 +10,7 @@ Betriebe mit kleinem Budget präzise
 -   Verteilzeitstudien (vsv)  
 -   Rüstzeiten (tr)  
 -   Störzeiten (N)
+-   Fallweise (F)
 
 ermitteln können.
 
