@@ -22,9 +22,12 @@ inklusive Leistungsgrad, Ablaufabschnitt und automatischer Speicherung.
 
 
 # Kurze Anleitung der aktuellen Version
-Datei-Name bzw. Studien-Name vergeben
-Nach Starten läuft die Uhr
-Zum setzen des Messpunktes ENTER drücken
-Nun die Ablaufabschnitts-Nr. eingeben
-Zum Schluss den Leistungsgrad vergeben (Eingabe von %)
+Datei-Name bzw. Studien-Name vergeben  
+Nach Starten läuft die Uhr als Fortschrittzeit (FZ)  
+
+Zum setzen des Messpunktes ENTER drücken  
+
+Nun die Ablaufabschnitts-Nr. eingeben  
+Zum Schluss den Leistungsgrad (LG) vergeben (Eingabe von %)  
+
 Zum Beenden einfach strg + c drücken
