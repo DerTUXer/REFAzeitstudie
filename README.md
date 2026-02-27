@@ -1,5 +1,5 @@
 # REFAzeit V0.3b #
-Hallo an alle Entwickler! 
+Hallo an alle Entwickler!   
 Aktuell erfordern REFA-Zeitstudien oft teure Spezial-Hardware   
 und kostspielige Software. Mit diesem Open-Source-Projekt   
 möchte ich eine kostenlose Alternative schaffen, damit auch  
